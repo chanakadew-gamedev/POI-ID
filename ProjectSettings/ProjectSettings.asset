@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: Asiri
   productName: POI-ID
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -920,7 +920,7 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: 9c1123f3-0ffe-43b3-86ca-e9e7f82b9035
   framebufferDepthMemorylessMode: 0
